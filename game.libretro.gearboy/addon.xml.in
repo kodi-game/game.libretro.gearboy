@@ -18,6 +18,5 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.gearboy</source>
 		<summary lang="en_GB">Nintendo - Game Boy / Color (Gearboy) 2.6.0</summary>
-		<description lang="en_GB"></description>
 	</extension>
 </addon>
