@@ -21,7 +21,7 @@ msgid "Nintendo - Game Boy / Color (Gearboy) 2.6.0"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
+msgid "Gearboy is a Nintendo Game Boy / Game Boy Color emulator that runs on iOS, Raspberry Pi, Mac, Windows, Linux and RetroArch."
 msgstr ""
 
 msgctxt "#30000"
