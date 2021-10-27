@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy / Color (Gearboy) 2.6.0</summary>
+		<description lang="da_DK">Gearboy er en Nintendo Game Boy/Game Boy Color emulator, der kører på iOS, Raspberry Pi, Mac, Windows, Linux og RetroArch.</description>
 		<description lang="en_GB">Gearboy is a Nintendo Game Boy / Game Boy Color emulator that runs on iOS, Raspberry Pi, Mac, Windows, Linux and RetroArch.</description>
 	</extension>
 </addon>
