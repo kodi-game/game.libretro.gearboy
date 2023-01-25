@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.gearboy/resources/icon.png)
+![Nintendo - Game Boy / Color (Gearboy) icon](game.libretro.gearboy/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.gearboy/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.gearboy/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.gearboy/resources/screenshot-03.jpg)
+![Nintendo - Game Boy / Color (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-01.jpg)
+![Nintendo - Game Boy / Color (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-02.jpg)
+![Nintendo - Game Boy / Color (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-03.jpg)
