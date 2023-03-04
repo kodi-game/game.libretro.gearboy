@@ -29,6 +29,7 @@
 		<description lang="de_DE">Gearboy ist ein Emulator für Nintendo Game Boy / Game Boy Color, der auf iOS, Raspberry Pi, Mac, Windows, Linux und RetroArch läuft.</description>
 		<description lang="en_GB">Gearboy is a Nintendo Game Boy / Game Boy Color emulator that runs on iOS, Raspberry Pi, Mac, Windows, Linux and RetroArch.</description>
 		<description lang="es_ES">Gearboy es un emulador de Nintendo Game Boy / Game Boy Color que funciona en iOS, Raspberry Pi, Mac, Windows, Linux y RetroArch.</description>
+		<description lang="it_IT">Gearboy è un emulatore di Nintendo Game Boy / Game Boy Color che funziona su iOS, Raspberry Pi, Mac, Windows, Linux e RetroArch.</description>
 		<description lang="zh_CN">Gearboy 是一款任天堂 Game Boy/Game Boy Color模拟器，在iOS、Raspberry Pi、Mac、Windows、Linux 和 RetroArch 上运行。</description>
 	</extension>
 </addon>
