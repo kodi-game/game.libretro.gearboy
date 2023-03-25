@@ -30,13 +30,29 @@ msgid "Settings"
 msgstr "설정"
 
 msgctxt "#30001"
-msgid "Emulated Model (restart)"
+msgid "Game Boy Model (restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Palette"
-msgstr "팔레트"
+msgid "Mapper (restart)"
+msgstr ""
 
 msgctxt "#30003"
+msgid "DMG Palette"
+msgstr ""
+
+msgctxt "#30004"
+msgid "DMG Bootrom (restart)"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Game Boy Color Bootrom (restart)"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Allow Up+Down / Left+Right"
 msgstr ""
+
+#~ msgctxt "#30002"
+#~ msgid "Palette"
+#~ msgstr "팔레트"

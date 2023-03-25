@@ -30,13 +30,37 @@ msgid "Settings"
 msgstr "设置"
 
 msgctxt "#30001"
-msgid "Emulated Model (restart)"
-msgstr "仿真型号（重新启动）"
+msgid "Game Boy Model (restart)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Palette"
-msgstr "调色板"
+msgid "Mapper (restart)"
+msgstr ""
 
 msgctxt "#30003"
+msgid "DMG Palette"
+msgstr ""
+
+msgctxt "#30004"
+msgid "DMG Bootrom (restart)"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Game Boy Color Bootrom (restart)"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Allow Up+Down / Left+Right"
-msgstr "允许 上+下 / 左+右"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Emulated Model (restart)"
+#~ msgstr "仿真型号（重新启动）"
+
+#~ msgctxt "#30002"
+#~ msgid "Palette"
+#~ msgstr "调色板"
+
+#~ msgctxt "#30003"
+#~ msgid "Allow Up+Down / Left+Right"
+#~ msgstr "允许 上+下 / 左+右"
