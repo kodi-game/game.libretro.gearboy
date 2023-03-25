@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="gearboy_model" values="Auto|Game Boy DMG" default="Auto"/>
-		<setting label="30002" type="select" id="gearboy_palette" values="Original|Sharp|B/W|Autumn|Soft|Slime" default="Original"/>
-		<setting label="30003" type="select" id="gearboy_up_down_allowed" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30001" type="select" id="gearboy_model" values="Auto|Game Boy DMG|Game Boy Advance" default="Auto"/>
+		<setting label="30002" type="select" id="gearboy_mapper" values="Auto|ROM Only|MBC 1|MBC 2|MBC 3|MBC 5|MBC 1 Multicart" default="Auto"/>
+		<setting label="30003" type="select" id="gearboy_palette" values="Original|Sharp|B/W|Autumn|Soft|Slime" default="Original"/>
+		<setting label="30004" type="select" id="gearboy_bootrom_dmg" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30005" type="select" id="gearboy_bootrom_gbc" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30006" type="select" id="gearboy_up_down_allowed" values="Disabled|Enabled" default="Disabled"/>
 	</category>
 </settings>
