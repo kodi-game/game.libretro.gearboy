@@ -1,1 +1,1 @@
-gearboy https://github.com/drhelius/Gearboy/archive/3e1d40edcd22c3ebd8a5337f83a11234bbd57845.tar.gz
+gearboy https://github.com/drhelius/Gearboy/archive/cb424e353f79665ea00fddaa0be2249b1d47a9b7.tar.gz
