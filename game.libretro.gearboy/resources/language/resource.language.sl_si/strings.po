@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Gearboy is a Nintendo Game Boy / Game Boy Color emulator that runs on iOS, Raspberry Pi, Mac, Windows, Linux and RetroArch."
 msgstr "Gearboy je Nintendo Game Boy / Game Boy Color emulator, ki deluje v sistemih iOS, Raspberry Pi, Mac, Windows, Linux in RetroArch."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Game Boy Model (restart)"
 msgstr "Model Game Boy (ponovni zagon)"
@@ -52,3 +48,7 @@ msgstr "Game Boy Color Bootrom (ponovni zagon)"
 msgctxt "#30006"
 msgid "Allow Up+Down / Left+Right"
 msgstr "Dovoli gor+dol / levo+desno"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
