@@ -1,0 +1,25 @@
+From e4364892dcd48a432daa4b2534e86e7885858879 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sat, 28 Dec 2024 05:29:41 -0800
+Subject: [PATCH] Explicitly set version variable
+
+---
+ platforms/libretro/Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/platforms/libretro/Makefile b/platforms/libretro/Makefile
+index 4ed2499..d61fa2c 100644
+--- a/platforms/libretro/Makefile
++++ b/platforms/libretro/Makefile
+@@ -331,7 +331,7 @@ endif
+ 
+ GIT_VERSION ?= "$(shell git describe --abbrev=7 --dirty --always --tags || echo unknown)"
+ ifneq ($(GIT_VERSION)," unknown")
+-	CXXFLAGS += -DEMULATOR_BUILD=\"$(GIT_VERSION)\"
++	CXXFLAGS += -DEMULATOR_BUILD=\"3.5.0\"
+ endif
+ 
+ include Makefile.common
+-- 
+2.43.0
+
