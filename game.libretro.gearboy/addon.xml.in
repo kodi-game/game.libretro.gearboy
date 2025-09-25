@@ -27,6 +27,7 @@
 		<summary lang="da_DK">Nintendo - Game Boy / Farve (Gearboy)</summary>
 		<summary lang="en_GB">Nintendo - Game Boy / Color (Gearboy)</summary>
 		<summary lang="es_ES">Nintendo - Game Boy / Color (Gearboy)</summary>
+		<summary lang="ga">Nintendo - Game Boy / Color (Gearboy)</summary>
 		<summary lang="it_IT">Nintendo - Game Boy / Color (Gearboy)</summary>
 		<summary lang="sv_SE">Nintendo - Game Boy / Color (Gearboy)</summary>
 		<summary lang="zh_CN">任天堂 - Game Boy / Color (Gearboy)</summary>
@@ -34,6 +35,7 @@
 		<description lang="de_DE">Gearboy ist ein Emulator für Nintendo Game Boy / Game Boy Color, der auf iOS, Raspberry Pi, Mac, Windows, Linux und RetroArch läuft.</description>
 		<description lang="en_GB">Gearboy is a Nintendo Game Boy / Game Boy Color emulator that runs on iOS, Raspberry Pi, Mac, Windows, Linux and RetroArch.</description>
 		<description lang="es_ES">Gearboy es un emulador de Nintendo Game Boy / Game Boy Color que funciona en iOS, Raspberry Pi, Mac, Windows, Linux y RetroArch.</description>
+		<description lang="ga">Is aithriseoir Nintendo Game Boy / Game Boy Color é Gearboy a ritheann ar iOS, Raspberry Pi, Mac, Windows, Linux agus RetroArch.</description>
 		<description lang="it_IT">Gearboy è un emulatore di Nintendo Game Boy / Game Boy Color che funziona su iOS, Raspberry Pi, Mac, Windows, Linux e RetroArch.</description>
 		<description lang="ru_RU">Gearboy — эмулятор Nintendo Game Boy/Game Boy Color, работающий на iOS, Raspberry Pi, Mac, Windows, Linux и RetroArch.</description>
 		<description lang="sl_SI">Gearboy je Nintendo Game Boy / Game Boy Color emulator, ki deluje v sistemih iOS, Raspberry Pi, Mac, Windows, Linux in RetroArch.</description>
