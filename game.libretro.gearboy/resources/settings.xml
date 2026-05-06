@@ -2,10 +2,26 @@
 <settings>
 	<category label="128">
 		<setting label="30001" type="select" id="gearboy_model" values="Auto|Game Boy DMG|Game Boy Advance" default="Auto"/>
-		<setting label="30002" type="select" id="gearboy_mapper" values="Auto|ROM Only|MBC 1|MBC 2|MBC 3|MBC 5|MBC 1 Multicart" default="Auto"/>
-		<setting label="30003" type="select" id="gearboy_palette" values="Original|Sharp|B/W|Autumn|Soft|Slime" default="Original"/>
+		<setting label="30002" type="select" id="gearboy_mapper" values="Auto|ROM Only|MBC 1|MBC 2|MBC 3|MBC 5|MBC 1 Multicart|HuC 1|HuC 3|MMM01|Camera|MBC 7|TAMA5" default="Auto"/>
+		<setting label="30007" type="select" id="gearboy_sgb" values="Enabled|Disabled" default="Enabled"/>
+		<setting label="30008" type="select" id="gearboy_sgb_border" values="Enabled|Disabled" default="Enabled"/>
 		<setting label="30004" type="select" id="gearboy_bootrom_dmg" values="Disabled|Enabled" default="Disabled"/>
-		<setting label="30005" type="select" id="gearboy_bootrom_gbc" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30009" type="select" id="gearboy_bootrom_gbc" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30010" type="select" id="gearboy_tilt_source" values="Mouse|Sensor|Analog Stick" default="Mouse"/>
+		<setting label="30011" type="select" id="gearboy_sensor_sensitivity_x" values="5|1|2|3|4|6|7|8|9|10" default="5"/>
+		<setting label="30012" type="select" id="gearboy_sensor_sensitivity_y" values="5|1|2|3|4|6|7|8|9|10" default="5"/>
+		<setting label="30013" type="select" id="gearboy_sensor_invert_x" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30014" type="select" id="gearboy_sensor_invert_y" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30015" type="select" id="gearboy_mouse_sensitivity_x" values="5|1|2|3|4|6|7|8|9|10" default="5"/>
+		<setting label="30016" type="select" id="gearboy_mouse_sensitivity_y" values="5|1|2|3|4|6|7|8|9|10" default="5"/>
+		<setting label="30017" type="select" id="gearboy_mouse_invert_x" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30018" type="select" id="gearboy_mouse_invert_y" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30019" type="select" id="gearboy_analog_sensitivity_x" values="5|1|2|3|4|6|7|8|9|10" default="5"/>
+		<setting label="30020" type="select" id="gearboy_analog_sensitivity_y" values="5|1|2|3|4|6|7|8|9|10" default="5"/>
+		<setting label="30021" type="select" id="gearboy_analog_invert_x" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30022" type="select" id="gearboy_analog_invert_y" values="Disabled|Enabled" default="Disabled"/>
+		<setting label="30003" type="select" id="gearboy_palette" values="Original|Sharp|B/W|Autumn|Soft|Slime" default="Original"/>
+		<setting label="30023" type="select" id="gearboy_color_correction" values="Disabled|Enabled" default="Disabled"/>
 		<setting label="30006" type="select" id="gearboy_up_down_allowed" values="Disabled|Enabled" default="Disabled"/>
 	</category>
 </settings>
