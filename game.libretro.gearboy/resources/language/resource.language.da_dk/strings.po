@@ -41,13 +41,81 @@ msgctxt "#30004"
 msgid "DMG Bootrom (restart)"
 msgstr "DMG Bootrom (genstart)"
 
-msgctxt "#30005"
-msgid "Game Boy Color Bootrom (restart)"
-msgstr "Game Boy Farve Bootrom (genstart)"
-
 msgctxt "#30006"
 msgid "Allow Up+Down / Left+Right"
 msgstr "Tillad op+ned / venstre+højre"
+
+msgctxt "#30007"
+msgid "Super Game Boy (restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Super Game Boy Border"
+msgstr ""
+
+msgctxt "#30009"
+msgid "GBC Bootrom (restart)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Tilt Source (MBC7)"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Sensor Sensitivity X (MBC7)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Sensor Sensitivity Y (MBC7)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Sensor Invert X (MBC7)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Sensor Invert Y (MBC7)"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Mouse Sensitivity X (MBC7)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Mouse Sensitivity Y (MBC7)"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Mouse Invert X (MBC7)"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Mouse Invert Y (MBC7)"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Analog Sensitivity X (MBC7)"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Analog Sensitivity Y (MBC7)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Analog Invert X (MBC7)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Analog Invert Y (MBC7)"
+msgstr ""
+
+msgctxt "#30023"
+msgid "GBC Color Correction"
+msgstr ""
+
+#~ msgctxt "#30005"
+#~ msgid "Game Boy Color Bootrom (restart)"
+#~ msgstr "Game Boy Farve Bootrom (genstart)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
