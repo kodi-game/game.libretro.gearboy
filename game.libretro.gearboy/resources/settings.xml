@@ -2,7 +2,7 @@
 <settings>
 	<category label="128">
 		<setting label="30001" type="select" id="gearboy_model" values="Auto|Game Boy DMG|Game Boy Advance" default="Auto"/>
-		<setting label="30002" type="select" id="gearboy_mapper" values="Auto|ROM Only|MBC 1|MBC 2|MBC 3|MBC 5|MBC 1 Multicart|HuC 1|HuC 3|MMM01|Camera|MBC 7|TAMA5" default="Auto"/>
+		<setting label="30002" type="select" id="gearboy_mapper" values="Auto|ROM Only|MBC 1|MBC 2|MBC 3|MBC 5|MBC 1 Multicart|HuC 1|HuC 3|MMM01|Camera|MBC 7|TAMA5|Wisdom Tree|M161|Sachen MMC1|Sachen MMC2|PKJD" default="Auto"/>
 		<setting label="30007" type="select" id="gearboy_sgb" values="Enabled|Disabled" default="Enabled"/>
 		<setting label="30008" type="select" id="gearboy_sgb_border" values="Enabled|Disabled" default="Enabled"/>
 		<setting label="30004" type="select" id="gearboy_bootrom_dmg" values="Disabled|Enabled" default="Disabled"/>
