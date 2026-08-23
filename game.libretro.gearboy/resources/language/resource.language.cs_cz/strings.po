@@ -232,3 +232,87 @@ msgstr "Invertuje svislou osu analogové páčky pro ovládání náklonu."
 msgctxt "#30053"
 msgid "Allow pressing, quickly alternating, or holding both left and right (or up and down) directions at the same time. This may cause movement based glitches in certain games. It's best to keep this option disabled."
 msgstr "Umožní současné stisknutí, rychlé střídání nebo podržení směrů doleva a doprava (nebo nahoru a dolů). V některých hrách to může způsobit chyby pohybu. Nejlepší je ponechat tuto volbu vypnutou."
+
+msgctxt "#30054"
+msgid "Game Boy DMG"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Game Boy Advance"
+msgstr ""
+
+msgctxt "#30056"
+msgid "ROM Only"
+msgstr ""
+
+msgctxt "#30057"
+msgid "MBC 1"
+msgstr ""
+
+msgctxt "#30058"
+msgid "MBC 2"
+msgstr ""
+
+msgctxt "#30059"
+msgid "MBC 3"
+msgstr ""
+
+msgctxt "#30060"
+msgid "MBC 5"
+msgstr ""
+
+msgctxt "#30061"
+msgid "MBC 1 Multicart"
+msgstr ""
+
+msgctxt "#30062"
+msgid "HuC 1"
+msgstr ""
+
+msgctxt "#30063"
+msgid "HuC 3"
+msgstr ""
+
+msgctxt "#30064"
+msgid "MMM01"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Camera"
+msgstr ""
+
+msgctxt "#30066"
+msgid "MBC 7"
+msgstr ""
+
+msgctxt "#30067"
+msgid "TAMA5"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Wisdom Tree"
+msgstr ""
+
+msgctxt "#30069"
+msgid "M161"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Sachen MMC1"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Sachen MMC2"
+msgstr ""
+
+msgctxt "#30072"
+msgid "PKJD"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Bung/EMS"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Poke 2-in-1"
+msgstr ""
