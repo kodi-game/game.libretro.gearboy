@@ -8,9 +8,9 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>Game Boy DMG</option>
-							<option>Game Boy Advance</option>
+							<option label="16316">Auto</option>
+							<option label="30054">Game Boy DMG</option>
+							<option label="30055">Game Boy Advance</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -20,26 +20,26 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>ROM Only</option>
-							<option>MBC 1</option>
-							<option>MBC 2</option>
-							<option>MBC 3</option>
-							<option>MBC 5</option>
-							<option>MBC 1 Multicart</option>
-							<option>HuC 1</option>
-							<option>HuC 3</option>
-							<option>MMM01</option>
-							<option>Camera</option>
-							<option>MBC 7</option>
-							<option>TAMA5</option>
-							<option>Wisdom Tree</option>
-							<option>M161</option>
-							<option>Sachen MMC1</option>
-							<option>Sachen MMC2</option>
-							<option>PKJD</option>
-							<option>Bung/EMS</option>
-							<option>Poke 2-in-1</option>
+							<option label="16316">Auto</option>
+							<option label="30056">ROM Only</option>
+							<option label="30057">MBC 1</option>
+							<option label="30058">MBC 2</option>
+							<option label="30059">MBC 3</option>
+							<option label="30060">MBC 5</option>
+							<option label="30061">MBC 1 Multicart</option>
+							<option label="30062">HuC 1</option>
+							<option label="30063">HuC 3</option>
+							<option label="30064">MMM01</option>
+							<option label="30065">Camera</option>
+							<option label="30066">MBC 7</option>
+							<option label="30067">TAMA5</option>
+							<option label="30068">Wisdom Tree</option>
+							<option label="30069">M161</option>
+							<option label="30070">Sachen MMC1</option>
+							<option label="30071">Sachen MMC2</option>
+							<option label="30072">PKJD</option>
+							<option label="30073">Bung/EMS</option>
+							<option label="30074">Poke 2-in-1</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -49,8 +49,8 @@
 					<default>Enabled</default>
 					<constraints>
 						<options>
-							<option>Enabled</option>
-							<option>Disabled</option>
+							<option label="305">Enabled</option>
+							<option label="13106">Disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -60,8 +60,8 @@
 					<default>Enabled</default>
 					<constraints>
 						<options>
-							<option>Enabled</option>
-							<option>Disabled</option>
+							<option label="305">Enabled</option>
+							<option label="13106">Disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -71,8 +71,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -82,8 +82,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -112,8 +112,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -123,8 +123,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -188,8 +188,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -199,8 +199,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -248,8 +248,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -259,8 +259,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -308,8 +308,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -319,8 +319,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -330,8 +330,8 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
-							<option>Enabled</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
