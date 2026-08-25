@@ -40,6 +40,7 @@
 							<option label="30072">PKJD</option>
 							<option label="30073">Bung/EMS</option>
 							<option label="30074">Poke 2-in-1</option>
+							<option label="30075">MBC 6</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
