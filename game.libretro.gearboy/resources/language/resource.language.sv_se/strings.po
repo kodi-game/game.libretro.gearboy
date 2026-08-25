@@ -318,6 +318,10 @@ msgctxt "#30074"
 msgid "Poke 2-in-1"
 msgstr ""
 
+msgctxt "#30075"
+msgid "MBC 6"
+msgstr ""
+
 #, fuzzy
 #~ msgctxt "#30005"
 #~ msgid "Game Boy Color Bootrom (restart)"

@@ -316,3 +316,7 @@ msgstr "Bung/EMS"
 msgctxt "#30074"
 msgid "Poke 2-in-1"
 msgstr "Poke 2-in-1"
+
+msgctxt "#30075"
+msgid "MBC 6"
+msgstr ""
