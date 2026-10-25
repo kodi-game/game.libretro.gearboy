@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - Game Boy / Color (Gearboy)"
+msgid "Nintendo - Game Boy / Color / Super Game Boy (Gearboy)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -320,4 +320,372 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "MBC 6"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Rocket Games"
+msgstr ""
+
+msgctxt "#30077"
+msgid "BHGOS"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Li Cheng"
+msgstr ""
+
+msgctxt "#30079"
+msgid "NT newer"
+msgstr ""
+
+msgctxt "#30080"
+msgid "GGB81"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Hitek"
+msgstr ""
+
+msgctxt "#30082"
+msgid "VF001"
+msgstr ""
+
+msgctxt "#30083"
+msgid "VF001 (SL)"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Sintax"
+msgstr ""
+
+msgctxt "#30085"
+msgid "NT old 1"
+msgstr ""
+
+msgctxt "#30086"
+msgid "NT old 2"
+msgstr ""
+
+msgctxt "#30087"
+msgid "Super Game Boy for All Games (restart)"
+msgstr ""
+
+msgctxt "#30088"
+msgid "When enabled and an SGB BIOS (SGB1.sfc or SGB2.sfc) is in the system directory, regular Game Boy (DMG) games also run in Super Game Boy mode, using the BIOS default palette and border."
+msgstr ""
+
+msgctxt "#30089"
+msgid "Game Link Cable"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Configure two linked Game Boy systems, screen layout and audio output."
+msgstr ""
+
+msgctxt "#30091"
+msgid "Game Link Cable Enable (restart)"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Run two linked Game Boy systems. Loading one ROM runs a separate copy on each screen; use the 2 Player Game Boy Link subsystem to load two different ROMs. Controller ports 1 and 2 control screens 1 and 2. Super Game Boy mode is disabled when linking."
+msgstr ""
+
+msgctxt "#30093"
+msgid "Dual Screen Placement"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Arrange both screens horizontally or vertically."
+msgstr ""
+
+msgctxt "#30095"
+msgid "Dual Screen Switch"
+msgstr ""
+
+msgctxt "#30096"
+msgid "Swap the positions of the two screens. Controller assignments, screen selection and audio selection still refer to the original screen numbers."
+msgstr ""
+
+msgctxt "#30097"
+msgid "Dual Screen Selection"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Display both screens or only the selected system. Both systems continue running."
+msgstr ""
+
+msgctxt "#30099"
+msgid "Dual Screen Audio"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Choose the system to hear, or mix both systems at half volume each."
+msgstr ""
+
+msgctxt "#30101"
+msgid "Barcode Boy"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Choose a card or enter 13 custom digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30103"
+msgid "Barcode Boy Mode (restart)"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Auto attaches Barcode Boy to games recognized by ROM CRC. Enabled supports unrecognized or patched ROMs. Game Link mode reserves the serial port and disables Barcode Boy."
+msgstr ""
+
+msgctxt "#30105"
+msgid "Barcode Boy Card"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Choose a documented card, or Custom to enter 13 digits. Resume the game and press Scan Barcode (RetroPad R) to scan. Changing this option does not scan automatically."
+msgstr ""
+
+msgctxt "#30107"
+msgid "Battle Space - Berserker"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Battle Space - Valkyrie"
+msgstr ""
+
+msgctxt "#30109"
+msgid "Battle Space - Grizzly Bear"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Battle Space - Magic Soldier"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Battle Space - Knight"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Battle Space - Wraith"
+msgstr ""
+
+msgctxt "#30113"
+msgid "Battle Space - Shaman"
+msgstr ""
+
+msgctxt "#30114"
+msgid "Battle Space - Thief"
+msgstr ""
+
+msgctxt "#30115"
+msgid "Battle Space - Sorcerer"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Battle Space - Warrior"
+msgstr ""
+
+msgctxt "#30117"
+msgid "Family Jockey 2 - A1"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Family Jockey 2 - A2"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Family Jockey 2 - A4"
+msgstr ""
+
+msgctxt "#30120"
+msgid "Family Jockey 2 - B1"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Family Jockey 2 - B2"
+msgstr ""
+
+msgctxt "#30122"
+msgid "Family Jockey 2 - B4"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Family Jockey 2 - C3"
+msgstr ""
+
+msgctxt "#30124"
+msgid "Family Jockey 2 - C5"
+msgstr ""
+
+msgctxt "#30125"
+msgid "Famista 3 - Home-Run Batter"
+msgstr ""
+
+msgctxt "#30126"
+msgid "Famista 3 - Senior Batter"
+msgstr ""
+
+msgctxt "#30127"
+msgid "Famista 3 - Swift Batter"
+msgstr ""
+
+msgctxt "#30128"
+msgid "Famista 3 - Pitcher"
+msgstr ""
+
+msgctxt "#30129"
+msgid "Kattobi Road - Truck"
+msgstr ""
+
+msgctxt "#30130"
+msgid "Kattobi Road - Sedan"
+msgstr ""
+
+msgctxt "#30131"
+msgid "Kattobi Road - Racecar"
+msgstr ""
+
+msgctxt "#30132"
+msgid "Kattobi Road - Japanese Street Car"
+msgstr ""
+
+msgctxt "#30133"
+msgid "Kattobi Road - 4x4 Jeep"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Kattobi Road - F1-style Racecar"
+msgstr ""
+
+msgctxt "#30135"
+msgid "Monster Maker - Archer Lorian"
+msgstr ""
+
+msgctxt "#30136"
+msgid "Monster Maker - Archer Elysice"
+msgstr ""
+
+msgctxt "#30137"
+msgid "Monster Maker - Knight Lauren"
+msgstr ""
+
+msgctxt "#30138"
+msgid "Monster Maker - Dragon Knight Haagun"
+msgstr ""
+
+msgctxt "#30139"
+msgid "Monster Maker - Warrior Diane"
+msgstr ""
+
+msgctxt "#30140"
+msgid "Monster Maker - Warrior Tamron"
+msgstr ""
+
+msgctxt "#30141"
+msgid "Custom"
+msgstr ""
+
+msgctxt "#30142"
+msgid "Barcode Boy Custom Digit 1"
+msgstr ""
+
+msgctxt "#30143"
+msgid "Digit 1 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30144"
+msgid "Barcode Boy Custom Digit 2"
+msgstr ""
+
+msgctxt "#30145"
+msgid "Digit 2 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30146"
+msgid "Barcode Boy Custom Digit 3"
+msgstr ""
+
+msgctxt "#30147"
+msgid "Digit 3 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30148"
+msgid "Barcode Boy Custom Digit 4"
+msgstr ""
+
+msgctxt "#30149"
+msgid "Digit 4 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30150"
+msgid "Barcode Boy Custom Digit 5"
+msgstr ""
+
+msgctxt "#30151"
+msgid "Digit 5 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30152"
+msgid "Barcode Boy Custom Digit 6"
+msgstr ""
+
+msgctxt "#30153"
+msgid "Digit 6 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30154"
+msgid "Barcode Boy Custom Digit 7"
+msgstr ""
+
+msgctxt "#30155"
+msgid "Digit 7 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30156"
+msgid "Barcode Boy Custom Digit 8"
+msgstr ""
+
+msgctxt "#30157"
+msgid "Digit 8 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30158"
+msgid "Barcode Boy Custom Digit 9"
+msgstr ""
+
+msgctxt "#30159"
+msgid "Digit 9 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30160"
+msgid "Barcode Boy Custom Digit 10"
+msgstr ""
+
+msgctxt "#30161"
+msgid "Digit 10 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30162"
+msgid "Barcode Boy Custom Digit 11"
+msgstr ""
+
+msgctxt "#30163"
+msgid "Digit 11 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30164"
+msgid "Barcode Boy Custom Digit 12"
+msgstr ""
+
+msgctxt "#30165"
+msgid "Digit 12 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
+msgstr ""
+
+msgctxt "#30166"
+msgid "Barcode Boy Custom Digit 13"
+msgstr ""
+
+msgctxt "#30167"
+msgid "Digit 13 of the custom 13-digit barcode, from left to right. Select Custom, set all digits, then press Scan Barcode (RetroPad R)."
 msgstr ""

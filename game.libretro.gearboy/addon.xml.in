@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gearboy"
-		name="Nintendo - Game Boy / Color (Gearboy)"
-		version="3.8.12.44"
+		name="Nintendo - Game Boy / Color / Super Game Boy (Gearboy)"
+		version="3.8.13.45"
 		provider-name="Nacho Sanchez">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Nintendo - Game Boy / Color / Super Game Boy</platforms>
 		<extensions>gb|dmg|gbc|cgb|sgb</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>gearboy_libretro</libretro_core>
+		<savestate_features>deterministic</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
@@ -27,7 +28,7 @@
 		</assets>
 		<summary lang="cs_CZ">Nintendo - Game Boy / Color (Gearboy)</summary>
 		<summary lang="da_DK">Nintendo - Game Boy / Farve (Gearboy)</summary>
-		<summary lang="en_GB">Nintendo - Game Boy / Color (Gearboy)</summary>
+		<summary lang="en_GB">Nintendo - Game Boy / Color / Super Game Boy (Gearboy)</summary>
 		<summary lang="es_ES">Nintendo - Game Boy / Color (Gearboy)</summary>
 		<summary lang="ga">Nintendo - Game Boy / Color (Gearboy)</summary>
 		<summary lang="it_IT">Nintendo - Game Boy / Color (Gearboy)</summary>

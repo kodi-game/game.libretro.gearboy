@@ -41,6 +41,17 @@
 							<option label="30073">Bung/EMS</option>
 							<option label="30074">Poke 2-in-1</option>
 							<option label="30075">MBC 6</option>
+							<option label="30076">Rocket Games</option>
+							<option label="30077">BHGOS</option>
+							<option label="30078">Li Cheng</option>
+							<option label="30079">NT newer</option>
+							<option label="30080">GGB81</option>
+							<option label="30081">Hitek</option>
+							<option label="30082">VF001</option>
+							<option label="30083">VF001 (SL)</option>
+							<option label="30084">Sintax</option>
+							<option label="30085">NT old 1</option>
+							<option label="30086">NT old 2</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -52,6 +63,17 @@
 						<options>
 							<option label="305">Enabled</option>
 							<option label="13106">Disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_sgb_all_games" type="string" label="30087" help="30088">
+					<level>0</level>
+					<default>Disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -333,6 +355,374 @@
 						<options>
 							<option label="13106">Disabled</option>
 							<option label="305">Enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+		<category id="link" label="30089" help="30090">
+			<group id="1">
+				<setting id="gearboy_link_enable" type="string" label="30091" help="30092">
+					<level>0</level>
+					<default>Disabled</default>
+					<constraints>
+						<options>
+							<option label="305">Enabled</option>
+							<option label="13106">Disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_link_placement" type="string" label="30093" help="30094">
+					<level>0</level>
+					<default>Horizontal</default>
+					<constraints>
+						<options>
+							<option>Horizontal</option>
+							<option>Vertical</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_link_switch" type="string" label="30095" help="30096">
+					<level>0</level>
+					<default>Disabled</default>
+					<constraints>
+						<options>
+							<option label="305">Enabled</option>
+							<option label="13106">Disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_link_screen" type="string" label="30097" help="30098">
+					<level>0</level>
+					<default>Both Screens</default>
+					<constraints>
+						<options>
+							<option>Both Screens</option>
+							<option>Screen 1</option>
+							<option>Screen 2</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_link_audio" type="string" label="30099" help="30100">
+					<level>0</level>
+					<default>Screen 1</default>
+					<constraints>
+						<options>
+							<option>Screen 1</option>
+							<option>Screen 2</option>
+							<option>Mix</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
+		<category id="barcode" label="30101" help="30102">
+			<group id="1">
+				<setting id="gearboy_barcode_boy" type="string" label="30103" help="30104">
+					<level>0</level>
+					<default>Auto</default>
+					<constraints>
+						<options>
+							<option label="16316">Auto</option>
+							<option label="13106">Disabled</option>
+							<option label="305">Enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode" type="string" label="30105" help="30106">
+					<level>0</level>
+					<default>Custom</default>
+					<constraints>
+						<options>
+							<option label="30141">Custom</option>
+							<option label="30107">Battle Space - Berserker</option>
+							<option label="30108">Battle Space - Valkyrie</option>
+							<option label="30109">Battle Space - Grizzly Bear</option>
+							<option label="30110">Battle Space - Magic Soldier</option>
+							<option label="30111">Battle Space - Knight</option>
+							<option label="30112">Battle Space - Wraith</option>
+							<option label="30113">Battle Space - Shaman</option>
+							<option label="30114">Battle Space - Thief</option>
+							<option label="30115">Battle Space - Sorcerer</option>
+							<option label="30116">Battle Space - Warrior</option>
+							<option label="30117">Family Jockey 2 - A1</option>
+							<option label="30118">Family Jockey 2 - A2</option>
+							<option label="30119">Family Jockey 2 - A4</option>
+							<option label="30120">Family Jockey 2 - B1</option>
+							<option label="30121">Family Jockey 2 - B2</option>
+							<option label="30122">Family Jockey 2 - B4</option>
+							<option label="30123">Family Jockey 2 - C3</option>
+							<option label="30124">Family Jockey 2 - C5</option>
+							<option label="30125">Famista 3 - Home-Run Batter</option>
+							<option label="30126">Famista 3 - Senior Batter</option>
+							<option label="30127">Famista 3 - Swift Batter</option>
+							<option label="30128">Famista 3 - Pitcher</option>
+							<option label="30129">Kattobi Road - Truck</option>
+							<option label="30130">Kattobi Road - Sedan</option>
+							<option label="30131">Kattobi Road - Racecar</option>
+							<option label="30132">Kattobi Road - Japanese Street Car</option>
+							<option label="30133">Kattobi Road - 4x4 Jeep</option>
+							<option label="30134">Kattobi Road - F1-style Racecar</option>
+							<option label="30135">Monster Maker - Archer Lorian</option>
+							<option label="30136">Monster Maker - Archer Elysice</option>
+							<option label="30137">Monster Maker - Knight Lauren</option>
+							<option label="30138">Monster Maker - Dragon Knight Haagun</option>
+							<option label="30139">Monster Maker - Warrior Diane</option>
+							<option label="30140">Monster Maker - Warrior Tamron</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_1" type="string" label="30142" help="30143">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_2" type="string" label="30144" help="30145">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_3" type="string" label="30146" help="30147">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_4" type="string" label="30148" help="30149">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_5" type="string" label="30150" help="30151">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_6" type="string" label="30152" help="30153">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_7" type="string" label="30154" help="30155">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_8" type="string" label="30156" help="30157">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_9" type="string" label="30158" help="30159">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_10" type="string" label="30160" help="30161">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_11" type="string" label="30162" help="30163">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_12" type="string" label="30164" help="30165">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="gearboy_barcode_digit_13" type="string" label="30166" help="30167">
+					<level>0</level>
+					<default>0</default>
+					<constraints>
+						<options>
+							<option>0</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />

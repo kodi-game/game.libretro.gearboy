@@ -1,4 +1,4 @@
-# Nintendo - Game Boy / Color (Gearboy)
+# Nintendo - Game Boy / Color / Super Game Boy (Gearboy)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv3
 
 ### Icon
 
-![Nintendo - Game Boy / Color (Gearboy) icon](game.libretro.gearboy/resources/icon.png)
+![Nintendo - Game Boy / Color / Super Game Boy (Gearboy) icon](game.libretro.gearboy/resources/icon.png)
 
 ### Fanart
 
@@ -18,6 +18,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Nintendo - Game Boy / Color (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-01.jpg)
-![Nintendo - Game Boy / Color (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-02.jpg)
-![Nintendo - Game Boy / Color (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-03.jpg)
+![Nintendo - Game Boy / Color / Super Game Boy (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-01.jpg)
+![Nintendo - Game Boy / Color / Super Game Boy (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-02.jpg)
+![Nintendo - Game Boy / Color / Super Game Boy (Gearboy) screenshot](game.libretro.gearboy/resources/screenshot-03.jpg)
