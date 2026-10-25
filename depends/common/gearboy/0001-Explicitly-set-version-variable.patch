@@ -1,4 +1,4 @@
-From dfc4e9d8cd6f32b60a882c61e50150178954ed50 Mon Sep 17 00:00:00 2001
+From 66441718300ea5187149c8e29204435e09253b35 Mon Sep 17 00:00:00 2001
 From: Garrett Brown <themagnificentmrb@gmail.com>
 Date: Sun, 25 Oct 2026 09:42:32 -0700
 Subject: [PATCH] Explicitly set version variable
@@ -8,15 +8,15 @@ Subject: [PATCH] Explicitly set version variable
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/platforms/libretro/Makefile b/platforms/libretro/Makefile
-index 7a04abf0..1b00dc09 100644
+index 8d26714e..5d25712b 100644
 --- a/platforms/libretro/Makefile
 +++ b/platforms/libretro/Makefile
-@@ -351,7 +351,7 @@ endif
- PROJECT_ROOT := $(abspath $(dir $(lastword $(MAKEFILE_LIST)))/../..)
+@@ -349,7 +349,7 @@ endif
+ 
  GIT_VERSION ?= $(shell git -c safe.directory="$(PROJECT_ROOT)" describe --abbrev=7 --dirty --always --tags || echo unknown)
  ifneq ($(GIT_VERSION), unknown)
--	CXXFLAGS += -DEMULATOR_BUILD=\"$(GIT_VERSION)\"
-+	CXXFLAGS += -DEMULATOR_BUILD=\"3.8.13\"
+-	CPPFLAGS += -DEMULATOR_BUILD=\"$(GIT_VERSION)\"
++	CPPFLAGS += -DEMULATOR_BUILD=\"3.8.13\"
  endif
  
  include Makefile.common
