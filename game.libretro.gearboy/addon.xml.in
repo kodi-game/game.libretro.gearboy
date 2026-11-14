@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gearboy"
 		name="Nintendo - Game Boy / Color / Super Game Boy (Gearboy)"
-		version="3.8.20.47"
+		version="3.8.20.48"
 		provider-name="Nacho Sanchez">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
